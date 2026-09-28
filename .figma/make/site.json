@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning websites and mobile apps effortlessly with intuitive design tools, perfect for businesses and individuals looking to enhance their online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
